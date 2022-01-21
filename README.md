@@ -100,9 +100,9 @@ pip3 install -r requirements.txt
 
 ### Training the model
 We have to run the train.py file so as to start training the model.
-    ```
-    python3 train.py
-    ```
+```
+python3 train.py
+```
 
 
 <br/>
@@ -110,9 +110,9 @@ We have to run the train.py file so as to start training the model.
 
 ### Testing the model
 To start face mask detection on a live feed (using webcam), we have to run the test.py file.
-    ```
-    python3 test.py
-    ```
+```
+python3 test.py
+```
 
 <br/>
 
@@ -205,6 +205,6 @@ https://www.linkedin.com/in/chaitanya-malani/)
 
 This project has been made by Chaitanya Malani 
 
-Demonstration of this project can be viewed on [YouTube](https://youtu.be/FUzSQ6Zw2vo)
+Demonstration of this project can be viewed on [YouTube](https://youtu.be/pdsy5AV5SgQ)
 
 I am an aspiring software engineer who is currently studying Computer Science in Mumbai, India. I love to code and explore various fields within computers. Also I am a very big football enthusiast and I love supporting Manchester United F.C.
