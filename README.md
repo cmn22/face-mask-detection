@@ -41,7 +41,7 @@ A python application that detects if person is wearing a mask or not.
 ### Cloning the Repository
 You can clone this repository by either downloading a zip file or by using the following command.
 ```
-git clone https://github.com/cmn22/mail
+git clone https://github.com/cmn22/face-mask-detection
 ```
 
 <br/>
